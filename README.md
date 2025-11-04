@@ -2,6 +2,8 @@
 Reactiation of [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a cellular automaton invented in 1970, using C# and windows forms<br>
 Each cell on the grid is either alive or dead, and evolves over time based on simple rules of birth and survival. You can click on each cell to make it alive/dead
 
+![This is how it looks](https://github.com/Rostmoment/GameOfLife/blob/master/image.png)
+
 # Controls
 Start – run the simulation<br>
 Stop - stop the simulation<br>
